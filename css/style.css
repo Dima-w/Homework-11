@@ -4,7 +4,8 @@ body{
 	background-color: #29B1CC;
 	font-family: Gilroy;
 }
-.MenuBox p{
+.MenuBox span{
+	display: block;
 	margin: 0;
 	margin-bottom: 4px;
 	padding: 0;
@@ -12,7 +13,7 @@ body{
 	top: 25px;
 	left: 15px;
 	z-index: 1;
-	background: #708090;
+	background-color: #708090;
 	width: 35px;
 	height: 5px;
 	border-radius: 100px;
